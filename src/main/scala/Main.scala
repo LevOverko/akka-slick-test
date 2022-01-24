@@ -9,7 +9,7 @@ object runUser extends App {
   // Создание в памяти БД Н2
   val db = Database.forConfig("userDB")
 
-  // Helper method for running a query in this example file:
+  // Метод который запускает запрос
   def exec[T](program: DBIO[T]): T = Await.result(db.run(program), 2 seconds)
 
   // Создание таблицы user
