@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/overko/Рабочий стол/scala-slick/target/scala-2.12/scala-slick_2.12-3.3.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runUser$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/runUser$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	entities[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/entities[0m
+[0m[[0m[0mdebug[0m] [0m[0m	entities/User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/entities/User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	entities/User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/entities/User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	entities/User$UserTable$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/entities/User$UserTable$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	entities/User$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/entities/User$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	entities/User$User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/entities/User$User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	entities/User$User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/entities/User$User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	entities/User$UserTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/entities/User$UserTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/runUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runUser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/runUser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/overko/Рабочий стол/scala-slick/target/scala-2.12/classes/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
