@@ -10,7 +10,7 @@ object runUser extends App {
   val db = Database.forConfig("userDB")
 
   // Метод который запускает запрос
-  def exec[T](program: DBIO[T]): T = Await.result(db.run(program), 2 seconds)
+   def exec[T](program: DBIO[T]): T = Await.result(db.run(program), 2 seconds)
 
   // Создание таблицы user
   println("Создание таблицы БД")
